@@ -28,3 +28,6 @@ Netlify automatically deploys new changes commited to master on GitHub. If you w
 [![Slack Community Button](https://slack.sanity.io/badge.svg)](https://slack.sanity.io/)
 
 Join [Sanity’s developer community](https://slack.sanity.io) or ping us [on twitter](https://twitter.com/sanity_io)
+
+https://sanity-nuxt-events-studio-5o66iqhe.netlify.app/
+https://sanity-nuxt-events-web-2swhg6wo.netlify.app/
